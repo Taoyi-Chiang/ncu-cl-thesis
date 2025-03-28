@@ -1,4 +1,4 @@
-# 本論文計畫為`Taoyi-Chiang`的博士論文
+# 專案為`Taoyi-Chiang`的學位論文專案
 
 ## 論文模板
 - 感謝`sppmg`提供專案`TW_Thesis_Template`，本論文撰寫模板係依其中NCU_zh根據《中國文哲研究集刊》與中文學門學位論文之撰寫慣習調整。
