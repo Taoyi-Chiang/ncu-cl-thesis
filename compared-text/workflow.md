@@ -1,6 +1,9 @@
-# graph TD
+# comparing text workflow
 
 ```mermaid
+
+graph TD
+
 A[使用者輸入比對標題或頁面名] --> B[調用 Wikisource API 取得 wikitext 或純文字]
 B --> C[進行 wikitext 清理 / 萃取正文內容]
 
